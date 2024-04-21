@@ -1,0 +1,10 @@
+streamlit
+requests 
+beautifulsoup4
+PyPDF2
+docx2txt
+spacy
+transformers
+torchvision
+googletrans
+langdetect

@@ -21,6 +21,3 @@ Command Line Interface (CLI):
 3. Run the main script with a document file
 4. Run the main script with a URL
 
-
-Contact:
-📧 For any inquiries or feedback, please contact leelaprasad1607@gmail.com
